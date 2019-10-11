@@ -1,11 +1,12 @@
 <?php
 include_once 'dbconfig.php';
 require_once 'Welcome.php';
+
 // delete condition
 if(isset($_GET['delete_id']))
 {
-	//delete function call
-
+    //delete function call
+ 
 }
 // delete condition
 
@@ -91,5 +92,7 @@ function delete_id(id)
 //copy and paste the below code in delete logic
 $sql_query="DELETE FROM users WHERE user_id=".$_GET['delete_id'];
 	mysqli_query($con,$sql_query);
-	header("Location: $_SERVER[PHP_SELF]");
+    header("Location: $_SERVER[PHP_SELF]");
+
+    mysqli_num_rows()
 -->

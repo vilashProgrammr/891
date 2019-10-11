@@ -1,10 +1,5 @@
 <?php
-error_reporting(0);
+require_once 'Books.php';
 
-$con=mysqli_connect("localhost","root","","drupal");
-// Check connection
-if (mysqli_connect_errno())
-  {
-  echo "Failed to connect to MySQL: " . mysqli_connect_error();
-  }
+$bk  = new Books;
 ?>
