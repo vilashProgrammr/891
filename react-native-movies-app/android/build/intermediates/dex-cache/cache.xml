@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="5890aba13830ee1b1af1e70a504131d402a109b4">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-d962d9e3e66d2fa72f000d869839fe4bac97e4cd.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-a1b8009df10c844c90649732a642cc044bd5705b.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0-63b2d8a3937183ddcdfeceefbf10c3d120c5725f.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-c75da5c37dadfb765e54ba791b5379a13b4caf15.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-975aff01b77f55aca212160dce6e5ac487e14666.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-31a3fa3aeec0891f46db269ddd24dfb86ee9a181.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-7902013563e377ecc02de6de266b43bddb3329a6.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-4fff8de1126cfea913c9088f36a0e163b0c21e7a.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-7dbece56e2b9f095f2dbf50e7533b07d8e9d0407.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-d8375bfb0f581d6c8429818cfde32bce51676dee.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-7cdaca5248e36eafc91c512d1b351b8d6c7abc9e.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-a77e21376e97001389b272835eb25fdac07102f2.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-70e796d37534786afafcaf195e3d147eb4b09676.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-78c0dd6d094fe25cf465ec3f63476789c87bb054.jar" />
+    </item>
+    <item
+        jar="/opt/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0-893487117878139c4fd79f3d1f744ae3f8b418c3.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-30b8bd809c7061b4575638b5f84eea0ba69def12.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-68d670bd9e6621732f51c85c1b754f414054af8e.jar" />
+    </item>
+    <item
+        jar="/home/project/react-native-movies-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/classes-dbe1105b4b0fadcf382bc03c53a172ee714683ed.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="28.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/project/react-native-movies-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+
+</items>
